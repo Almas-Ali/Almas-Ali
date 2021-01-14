@@ -13,7 +13,7 @@
 </a>
 
 <h3>Contributed in Lists:</h3>
-<li><ol>
-<a href="https://github.com/MobSF/docs">MobSF/docs</a><br/>
-<a href="https://github.com/congaterori/pythonA.I">congaterori/pythonA.I</a>
-</li></ol>
+<ol>
+<li><a href="https://github.com/MobSF/docs">MobSF/docs</a></li><br/>
+<li><a href="https://github.com/congaterori/pythonA.I">congaterori/pythonA.I</a></li>
+</ol>
