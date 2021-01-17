@@ -3,6 +3,7 @@
 <br>
 <hr>
 <h3> Social Media Links:</h3>
+<a href="https://Almas-Ali.github.io/Almas-Ali">Github Profile Website</a>
 <a href="https://dev.to/almasali">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Almas Ali's DEV Profile" height="30" width="30">
   <div class="name">Dev: Md. Almas Ali</div>
