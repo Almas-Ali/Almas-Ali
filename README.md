@@ -6,6 +6,9 @@
 <br>
 <hr>
 <div align="center">
+	<p align='center'>
+		<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&count_private=true&theme=dark" width="350"></a>
+	</p>
 <h3 align="center"> Social Media Links:</h3>
 <a href="https://Almas-Ali.github.io/Almas-Ali" class="main">Github Profile Website</a><br/><br/>
 <div align="center" >
