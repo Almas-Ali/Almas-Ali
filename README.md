@@ -1,9 +1,3 @@
-<style type="text/css">
-	.main {
-		text-decoration: none;
-	}
-</style>
-
 <p align='center' class="main">
 <h1 align='center'>
   Hi there 👋 I'm Md. Almas Ali 👨‍💻
@@ -69,6 +63,6 @@
 
 <br/><hr><br/>
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars.</a>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 </p>
