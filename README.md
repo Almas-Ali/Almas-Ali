@@ -54,11 +54,11 @@
 <div align="center">
 	<h3>Contributed in Lists:</h3>
 	<ol align="center">
-		<li>
+		<li align="center">
 			<a href="https://github.com/MobSF/docs">MobSF/docs</a>
 		</li>
 		<br/>
-		<li>
+		<li align="center">
 			<a href="https://github.com/congaterori/pythonA.I">congaterori/pythonA.I</a>
 		</li>
 	</ol>
