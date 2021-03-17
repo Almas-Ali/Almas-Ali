@@ -61,6 +61,7 @@
 		<li align="center">
 			<a href="https://github.com/congaterori/pythonA.I">congaterori/pythonA.I</a>
 		</li>
+		<br/>
 		<li align="center">
                         <a href="https://github.com/revsys/django-friendship">revsys/django-friendship</a>
                 </li>
