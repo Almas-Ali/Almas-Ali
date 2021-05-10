@@ -25,7 +25,7 @@
 	<a href="https://facebook.com/md.almasali.0" class="main">
 		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 	</a>
-	<a href="https://instagram.com/md._almas_ali" class="main">
+	<a href="https://instagram.com/md.almas.ali" class="main">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
 	<a href="https://github.com/Almas-Ali" class="main">
