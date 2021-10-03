@@ -21,6 +21,11 @@
 		<a href="#"><img
 				src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Almas-Ali&layout=compact&theme=chartreuse-dark"
 				width="400" title="Most Used Languages"></a>
+        </p>
+        <p align='center'>
+                <a href="#"><img
+                                src="https://github-readme-streak-stats.herokuapp.com?user=almas-ali&theme=dark"
+                                width="400" title="Github Streak Stats"></a>
 	</p>
 	<p align='center'>
 		<a href="#"><img
