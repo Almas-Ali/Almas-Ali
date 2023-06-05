@@ -26,13 +26,12 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true"
   alt="Wakaime stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"
-  alt="lang stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
   alt="stat">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&layout=compact&theme=transparent" alt="lang stats">
 
 <hr>
 
@@ -50,7 +49,7 @@
 <a href="https://dev.to/almasali" target="blank"><img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
     alt="almasali" height="30" width="40" /></a>
-<a href="https://twitter.com/almaspr3" target="blank"><img
+<a href="https://twitter.com/almasali22" target="blank"><img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
     alt="almaspr3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-almasali" target="blank"><img
@@ -133,5 +132,7 @@
     src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
 
 <hr>
+
 Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
 ⭐</a>
+
