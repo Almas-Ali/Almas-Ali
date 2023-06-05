@@ -1,23 +1,30 @@
-<p align='center' class="main">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif" width="30px" height="30px">, I'm Md. Almas Ali</h1>
 <h3 align="center">A passionate <strong>Software Engineer</strong> from Bangladesh</h3>
-<br>
-<div align="center">
 
-<a href="https://hits.seeyoufarm.com" title="Profile Hits">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlmas-Ali&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" /></a>
-<a href="https:/github.com/Almas-Ali">
-<img src="https://komarev.com/ghpvc/?username=Almas-Ali&color=brightgreen"
-	title="Profile Vews"></a>
-<a href="https://wakatime.com/@168edf9f-71dc-49cc-bf77-592d9c9d4eed"><img
-	src="https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg"
-	alt="Total time coded since Oct 24 2022" /></a><br><br>
-	<img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/working.gif" alt="Md. Almas Ali"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true" alt="Wakaime stats">
-</div>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlmas-Ali&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
+![Stars](https://img.shields.io/github/stars/Almas-Ali?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/Almas-Ali?label=Followers&style=social)
 
-<div>
+
+
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **Django Rest Framework (DRF)**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Anything related to Web Development**
+
+- 📫 How to reach me **almaspr3@gmail.com**
+
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+
+
+
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true" alt="Wakaime stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="lang stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent" alt="stat"><br>
 </p>
@@ -25,17 +32,18 @@
 <br>
 <hr>
 
-<div align="center">
-<h3> Social Media Links:</h3>
-<a href="https://Almas-Ali.github.io" class="main">Check my portfolio Website</a>
-<br><br>
-</div>
+## Social Media Links:
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+[Check my portfolio Website](https://almasali.net "Almas Ali Portfolio")
+
+## Connect with me:
+
+[![Md. Almas Ali's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg "Devto"){:height="30px" width="30px"}](https://dev.to/almasali)
+
 <a href="https://dev.to/almasali" class="main">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Almas Ali's DEV Profile" height="30" width="30">
+<img src="" alt="Md. Almas Ali's DEV Profile" height="30" width="30">
 </a>
+
 <a href="https://codepen.io/almaspr3" target="blank"><img
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="almaspr3" height="30" width="40" /></a>
 <a href="https://dev.to/almasali" target="blank"><img
