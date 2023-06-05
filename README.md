@@ -1,6 +1,6 @@
 <p align='center' class="main">
-<h1 align="center">Hi 👋, I'm Md. Almas Ali</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif" width="30px" height="30px">, I'm Md. Almas Ali</h1>
+<h3 align="center">A passionate <strong>Software Engineer</strong> from Bangladesh</h3>
 <br>
 <div align="center">
 
@@ -12,38 +12,22 @@
 <a href="https://wakatime.com/@168edf9f-71dc-49cc-bf77-592d9c9d4eed"><img
 	src="https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg"
 	alt="Total time coded since Oct 24 2022" /></a><br><br>
+	<img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/working.gif" alt="Md. Almas Ali"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true" alt="Wakaime stats">
 </div>
 
 <div>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=almas-ali" alt="almas-ali" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent" alt="stat"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="lang stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent" alt="stat"><br>
 </p>
 
 <br>
-
-<div align="center">
-<a href="https://github.com/Almas-Ali/Num6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Almas-Ali&repo=Num6&theme=transparent" />
-</a><br><br>
-<a href="https://github.com/Almas-Ali/rong">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Almas-Ali&repo=rong&theme=transparent" />
-</a><br><br>
-<a href="https://github.com/Almas-Ali/Ant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Almas-Ali&repo=Ant&theme=transparent" />
-</a><br><br>
-<a href="https://github.com/Almas-Ali/TRex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Almas-Ali&repo=TRex&theme=transparent" />
-</a>
-</div><br>
 <hr>
 
 <div align="center">
 <h3> Social Media Links:</h3>
-<a href="https://Almas-Ali.github.io" class="main">Github Profile Website</a>
+<a href="https://Almas-Ali.github.io" class="main">Check my portfolio Website</a>
 <br><br>
 </div>
 
@@ -98,14 +82,14 @@ alt="digitalhelpbd.com/rss" height="30" width="40" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
 		height="40" /> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="flask" width="40"
+		height="40" /> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
 			  alt="laravel" width="40" height="40" /> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			  alt="react" width="40" height="40" /> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 </p>
 
 <p align="center">
@@ -115,18 +99,6 @@ alt="digitalhelpbd.com/rss" height="30" width="40" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 	alt="python" width="40" height="40" /> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-		width="40" height="40" /> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-		height="40" /> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-		alt="cplusplus" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-		alt="csharp" width="40" height="40" /> </a>
 </p>
 
 <p align="center">
@@ -159,28 +131,9 @@ alt="postgresql" width="40" height="40" /> </a>
   src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
 </p>
 
-<!-- 
-<div align="center">
-	<h3>Contributed in Lists:</h3>
-	<ol align="center">
-		<li align="center">
-	<a href="https://github.com/MobSF/docs">MobSF/docs</a>
-		</li>
-	r />
-		<li align="center">
-	<a href="https://github.com/congaterori/pythonA.I">congaterori/pythonA.I</a>
-	li>
-		<br />
-		<li align="center">
-	<a href="https://github.com/revsys/django-friendship">revsys/django-friendship</a>
-	li>
-	</ol> 
-</div> -->
-
-<br />
-<hr><br />
+<br>
+<hr><br>
 <p align='center'>
 	Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
 		⭐</a>
-</p>
 </p>
