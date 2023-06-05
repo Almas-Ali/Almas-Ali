@@ -7,6 +7,8 @@
 ![Stars](https://img.shields.io/github/stars/Almas-Ali?label=Stars&style=social)
 ![Followers](https://img.shields.io/github/followers/Almas-Ali?label=Followers&style=social)
 
+## About Me
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Django Rest Framework (DRF)**
@@ -19,6 +21,8 @@
 
 - ⚡ Fun fact **I have some perfect tools for your next project.**
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true"
   alt="Wakaime stats">
 
@@ -28,9 +32,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
   alt="stat">
 
-<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
+
 <hr>
-<br>
 
 ## Connect with me:
 
@@ -128,8 +132,6 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
 
-<br>
-<hr><br>
-
+<hr>
 Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
 ⭐</a>
