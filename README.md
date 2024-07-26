@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
-    width="30px" height="30px">, I'm Md. Almas Ali</h1>
-<h3 align="center">A passionate <strong>Software Engineer</strong> from Bangladesh</h3>
+<h1 align="center">Hi there, I'm Md. Almas Ali! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
+    width="30px" height="30px"></h1>
+<h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3>
 
 <div align="center">
 
@@ -13,67 +13,32 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Django Rest Framework (DRF)**
+- 🌱 I’m currently learning **New technologies and frameworks everyday**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Anything related to Web Development**
+- 💬 Ask me about **Anything related to Software Development**
 
 - 📫 How to reach me **almaspr3@gmail.com**
 
 - ⚡ Fun fact **I have some perfect tools for your next project.**
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true"
-  alt="Wakaime stats">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
-  alt="stat">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&layout=compact&theme=transparent" alt="lang stats">
-
-<hr>
-
 ## Connect with me:
 
 [Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
 
-<a href="https://dev.to/almasali" class="main">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Almas Ali's DEV Profile" height="30"
-    width="30">
-</a>
-<a href="https://codepen.io/almaspr3" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-    alt="almaspr3" height="30" width="40" /></a>
-<a href="https://dev.to/almasali" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-    alt="almasali" height="30" width="40" /></a>
-<a href="https://twitter.com/almasali22" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    alt="almaspr3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-almasali" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="md-almasali" height="30" width="40" /></a>
-<a href="https://fb.com/md.almasali.0" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-    alt="md.almasali.0" height="30" width="40" /></a>
-<a href="https://instagram.com/almaspr3" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/almaspr3" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/almaspr3" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="almaspr3" height="30" width="40" /></a>
-<a href="/digitalhelpbd.com/rss" target="blank"><img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
-    alt="digitalhelpbd.com/rss" height="30" width="40" /></a>
+<p align="left">
+<a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://twitter.com/almasali22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almasali22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-almasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-almasali" height="30" width="40" /></a>
+<a href="https://fb.com/md.almasali.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.almasali.0" height="30" width="40" /></a>
+<a href="https://instagram.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
+</p>
 
 <br>
 
@@ -91,6 +56,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap" width="40" height="40" /> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
     src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
@@ -98,15 +64,9 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="flask" width="40"
     height="40" /> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-    alt="laravel" width="40" height="40" /> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"
     width="40" height="40" /> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-    height="40" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
     width="40" height="40" /> </a>
@@ -132,11 +92,33 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="40" height="40" /> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <hr>
 
+<h3 align="left">Support me:</h3>
+<p><a href="https://www.buymeacoffee.com/almaspr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="almaspr3" /></a>
+</p>
+<br>
+<br>
+<br>
+
+<p>
 Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
 ⭐</a>
+</p>
 
+<br>
+
+## GitHub & Wakatime Stats:
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true"
+  alt="Wakaime stats">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
+  alt="stat">
+</div>
