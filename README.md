@@ -121,4 +121,9 @@ Do you like my open source projects? <a href='https://stars.github.com/nominate/
 
 <img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
   alt="stat">
+
 </div>
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
