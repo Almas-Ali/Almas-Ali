@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Md. Almas Ali! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
     width="30px" height="30px"></h1>
-<h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3>
+<!-- <h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3> -->
+
+<p align="center">
+<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 
@@ -43,6 +47,8 @@
 <br>
 
 ## Languages and Tools:
+
+<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=600&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
@@ -109,21 +115,45 @@ Do you like my open source projects? <a href='https://stars.github.com/nominate/
 ⭐</a>
 </p>
 
-<br>
 
-## GitHub & Wakatime Stats:
+<h2 align="center">📊 Progress Stats:</h2>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true"
-  alt="Wakaime stats">
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Almas-Ali&theme=transparent" alt="Almas-Ali">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Almas-Ali&theme=tokyonight" alt="Profile Details"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=transparent"
-  alt="stat">
+<p align="center">
 
-</div>
+---
 
-## ✍️ Random Dev Quote
+| Overview | In Detail |
+|--------|----------|
+| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+
+---
+
+| Overview | In Detail | Repositories |
+|--------|----------|-------------------|
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+
+---
+
+</p>
+
+
+![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
+
+---
+
+
+| Wakatime | Hire me |
+|----------|---------|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
+
+
+## ✍️ Need Inspiration?
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
