@@ -140,9 +140,13 @@
 <a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 ## ✍️ Need Inspiration?
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<hr>
 
 ## Want to show your support?
 
