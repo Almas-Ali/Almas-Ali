@@ -29,26 +29,47 @@
 
 - ⚡ Fun fact **I have some perfect tools for your next project.**
 
-## Connect with me:
 
-[Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
+<h2 align="center">📊 Progress Stats:</h2>
 
-<p align="left">
-<a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://twitter.com/almasali22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almasali22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-almasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-almasali" height="30" width="40" /></a>
-<a href="https://fb.com/md.almasali.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.almasali.0" height="30" width="40" /></a>
-<a href="https://instagram.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Almas-Ali&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<br>
+<p align="center">
+
+---
+
+| Overview | In Detail |
+|--------|----------|
+| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+
+---
+
+| Overview | In Detail | Repositories |
+|--------|----------|-------------------|
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+
+---
+
+</p>
+
+
+![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
+
+---
+
+
+| Wakatime | Hire me |
+|----------|---------|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
+
 
 ## Languages and Tools:
 
-<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=600&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
+<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
@@ -103,7 +124,30 @@
 
 <hr>
 
-<h3 align="left">Support me:</h3>
+
+## Connect with me:
+
+[Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
+
+<p align="left">
+<a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://twitter.com/almasali22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almasali22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-almasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-almasali" height="30" width="40" /></a>
+<a href="https://fb.com/md.almasali.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.almasali.0" height="30" width="40" /></a>
+<a href="https://instagram.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almaspr3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
+</p>
+
+## ✍️ Need Inspiration?
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Want to show your support?
+
+By supporting me you are supporting the hole open-source community.
+
 <p><a href="https://www.buymeacoffee.com/almaspr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="almaspr3" /></a>
 </p>
 <br>
@@ -115,45 +159,4 @@ Do you like my open source projects? <a href='https://stars.github.com/nominate/
 ⭐</a>
 </p>
 
-
-<h2 align="center">📊 Progress Stats:</h2>
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Almas-Ali&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-
----
-
-| Overview | In Detail |
-|--------|----------|
-| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
-
----
-
-| Overview | In Detail | Repositories |
-|--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
-
----
-
-</p>
-
-
-![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
-
----
-
-
-| Wakatime | Hire me |
-|----------|---------|
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
-
-
-## ✍️ Need Inspiration?
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
